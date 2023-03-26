@@ -10,15 +10,15 @@
 <h1 align="center"> hey there 👋 </h1>
 <div align="center">
   Primarily front-end developer from the US<br>
-  Tester, Moderator, Developer, but most importantly, coffee & cat lover.<br>
+  Fueled by caffeiene<br>
   ☕ <br>
-  <strong>Community & Content Moderator in:</strong> <br>
+  <strong>Staff contact:</strong> <br>
   ELDEN RING, https://discord.gg/ELDENRING<br>
   Anime Interlink, https://discord.gg/interlink<br>
   Discord Networking, https://discord.gg/arp9nM38K6<br>
-  <strong>Tester & Bug Hunter in:</strong><br>
-  Discord Games Lab, https://discord.gg/discordgameslab<br>
-  Discord Testers, https://discord.gg/discord-testers<br>
+  <strong>QA:</strong><br>
+  Discord: https://discord.com/<br>
+  Lunar Client: https://www.lunarclient.com/<br>
 </div>
 <br>
 
@@ -30,6 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="ElectronJS" alt="ElectroJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DJS" alt="DiscordJS" width="40" height="40"/>&nbsp;
