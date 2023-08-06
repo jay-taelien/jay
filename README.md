@@ -12,11 +12,9 @@
   Primarily front-end developer from the US<br>
   Fueled by caffeiene<br>
   ☕ <br>
-  <strong>Staff contact:</strong> <br>
-  ELDEN RING, https://discord.gg/ELDENRING<br>
-  Anime Interlink, https://discord.gg/interlink<br>
-  Discord Networking, https://discord.gg/arp9nM38K6<br>
-  <strong>QA:</strong><br>
+  <strong>Content Moderation:</strong> <br>
+  ELDEN RING: https://discord.gg/ELDENRING<br><br>
+  <strong>Quality Assurance:</strong><br>
   Discord: https://discord.com/<br>
   Lunar Client: https://www.lunarclient.com/<br>
 </div>
@@ -46,6 +44,9 @@
 
 <!--
 **alvannys/alvannys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e876c26962ac12b0c1a6537aa4ca089a.jpg" title="Discord" alt="Discord" width="40" height="40"/>&nbsp; 
+<img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e876c26962ac12b0c1a6537aa4ca089a.jpg" title="Discord" alt="Discord" width="40" height="40"/>&nbsp; 
+<img src="https://yt3.googleusercontent.com/ytc/AOPolaRmZU-XmAQuveg1xKvyTQ6sJLTqLj-rGduspj54=s900-c-k-c0x00ffffff-no-rj" title="Lunar Client" alt="Lunar Client" width="40" height="40"/>&nbsp; 
 
 Here are some ideas to get you started:
 
