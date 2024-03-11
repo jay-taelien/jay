@@ -12,11 +12,11 @@
   Primarily front-end developer from the US<br>
   Fueled by caffeiene<br>
   ☕ <br>
-  <strong>Content Moderation:</strong> <br>
+  <strong>mod:</strong> <br>
   ELDEN RING: https://discord.gg/ELDENRING<br><br>
-  <strong>Quality Assurance:</strong><br>
+  <strong>QA:</strong><br>
   Discord: https://discord.com/<br>
-  Lunar Client: https://www.lunarclient.com/<br>
+  formerly Lunar Client: https://www.lunarclient.com/<br>
 </div>
 <br>
 
