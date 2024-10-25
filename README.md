@@ -7,10 +7,9 @@
   </a>
 </div>
 
-<h1 align="center"> hey there 👋 </h1>
+<h1 align="center"> hi 👋 </h1>
 <div align="center">
   dev/pentester from the US<br>
-  Fueled by caffeiene<br>
   ☕ <br>
   <strong>QA:</strong><br>
   Discord: https://discord.com/<br>
@@ -23,6 +22,6 @@
 </div>
 <div align='center'> <br>
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvannys&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-taelien&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
